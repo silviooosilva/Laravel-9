@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Seeders serve para implementação de usuários sem usarmos as migrations!
+ * Basta rodar o comando php artisan make:seeder UsersSeeder
+ */
+
 namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
