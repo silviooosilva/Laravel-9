@@ -71,3 +71,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <p>Faremos um CRUD simples e fácil de entender para a familiarização com o framework!</p>
 <b>É importante também que você leia a documentação para se aprofundar mais nos seus estudos, blz?</b>
 </div>
+
+## Como rodar o projecto?
+
+<div>
+<p>Após ter clonado o projecto ou ter criado um novo pelo composer, basta rodar no terminal o comando <b>php artisan serve.</b>Após isso , basta abrir o seu navegador e digitar o endereço padrão que é o <b>127.0.0.1:8000</b></p>
+</div>
