@@ -68,4 +68,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <h1>Vamos Aprender Laravel Juntos?</h1>
 <h3>By: Sílvio Silva</h3>
 
+<p>Faremos um CRUD simples e fácil de entender para a familiarização com o framework!</p>
+<b>É importante também que você leia a documentação para se aprofundar mais nos seus estudos, blz?</b>
 </div>
