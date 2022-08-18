@@ -14,6 +14,13 @@ use App\Http\Controllers\PostController;
 |
 */
 
+
+/*
+    Exemplos para criação de Rotas
+    1º Chamados a função Route , seguido do verbo HTTP para a requisição desejada
+    2º Passamos a URI, seguido do controlador. Podemos também atribuir um nome a rota.
+*/
+
 Route::get('posts/edit/{id}', [PostController::class, 'edit'])->name('posts.edit');
 Route::delete('posts/{id}', [PostController::class, 'destroy'])->name('posts.destroy');
 Route::get('posts/create/{id}', [PostController::class, 'show'])->name('posts.show');
