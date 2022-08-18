@@ -8,6 +8,9 @@ use  App\Http\Requests\PostUpdateStore;
 
 class PostController extends Controller
 {
+    /**
+     * Controller para o retorno de todos os posts disponíveis
+     */
     public function index()
     {
         $posts = Post::all();
